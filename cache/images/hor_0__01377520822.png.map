@@ -1,0 +1,6 @@
+<img src="cache/images/hor_0__01377520822.png" border="0" usemap="#cache/images/hor_0__01377520822.png">
+<map name="cache/images/hor_0__01377520822.png">
+	<area shape="rect" coords="93,50,342,166" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Self+Generated&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Self Generated=%d" title="Self Generated=%d">
+	<area shape="rect" coords="93,196,591,313" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Partner&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Partner=%d" title="Partner=%d">
+	<area shape="rect" coords="93,343,342,459" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Employee&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Employee=%d" title="Employee=%d">
+</map>

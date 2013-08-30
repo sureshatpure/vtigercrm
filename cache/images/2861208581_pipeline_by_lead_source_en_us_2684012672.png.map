@@ -1,0 +1,7 @@
+<img src="cache/images/2861208581_pipeline_by_lead_source_en_us_2684012672.png" border="0" usemap="#cache/images/2861208581_pipeline_by_lead_source_en_us_2684012672.png">
+<map name="cache/images/2861208581_pipeline_by_lead_source_en_us_2684012672.png">
+	<area shape="polygon" coords="424,238,577,238,556,314,500,370,424,391,348,370,292,314,271,238,292,162,348,106,424,85,500,106,548,148" href="index.php?module=Potentials&action=ListView&leadsource=Existing+Customer&query=true&type=dbrd&viewname=10" alt="1 opportunities where lead source is Existing Customer	" title="1 opportunities where lead source is Existing Customer	">
+	<area shape="polygon" coords="424,238,548,148" href="index.php?module=Potentials&action=ListView&leadsource=Employee&query=true&type=dbrd&viewname=10" alt="1 opportunities where lead source is Employee	" title="1 opportunities where lead source is Employee	">
+	<area shape="polygon" coords="424,238,548,148,576,222,577,233" href="index.php?module=Potentials&action=ListView&leadsource=Partner&query=true&type=dbrd&viewname=10" alt="1 opportunities where lead source is Partner	" title="1 opportunities where lead source is Partner	">
+	<area shape="polygon" coords="424,238,577,233,577,238" href="index.php?module=Potentials&action=ListView&leadsource=Trade+Show&query=true&type=dbrd&viewname=10" alt="1 opportunities where lead source is Trade Show	" title="1 opportunities where lead source is Trade Show	">
+</map>

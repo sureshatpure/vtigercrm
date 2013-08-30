@@ -1,0 +1,5 @@
+<img src="cache/images/hor_0__01377519109.png" border="0" usemap="#cache/images/hor_0__01377519109.png">
+<map name="cache/images/hor_0__01377519109.png">
+	<area shape="rect" coords="70,55,155,90" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Chemicals&search_field=industry&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Chemicals=%d" title="Chemicals=%d">
+	<area shape="rect" coords="70,157,155,191" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Hospitality&search_field=industry&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Hospitality=%d" title="Hospitality=%d">
+</map>

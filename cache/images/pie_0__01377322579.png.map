@@ -1,0 +1,7 @@
+<img src="cache/images/pie_0__01377322579.png" border="0" usemap="#cache/images/pie_0__01377322579.png">
+<map name="cache/images/pie_0__01377322579.png">
+	<area shape="polygon" coords="444,282,607,282,585,364,526,423,494,437" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Employee&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Employee=%d" title="Employee=%d">
+	<area shape="polygon" coords="444,282,494,437,410,442,335,403,312,378" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Self+Generated&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Self Generated=%d" title="Self Generated=%d">
+	<area shape="polygon" coords="444,282,312,378,282,299,295,216,312,186" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Existing+Customer&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Existing Customer=%d" title="Existing Customer=%d">
+	<area shape="polygon" coords="444,282,312,186,378,133,461,120,540,150,593,216,607,282" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=--None--&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="None=%d" title="None=%d">
+</map>

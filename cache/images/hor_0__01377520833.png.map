@@ -1,0 +1,5 @@
+<img src="cache/images/hor_0__01377520833.png" border="0" usemap="#cache/images/hor_0__01377520833.png">
+<map name="cache/images/hor_0__01377520833.png">
+	<area shape="rect" coords="88,55,589,235" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Attempted+to+Contact&search_field=leadstatus&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Attempted to Contact=%d" title="Attempted to Contact=%d">
+	<area shape="rect" coords="88,275,589,455" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Contacted&search_field=leadstatus&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Contacted=%d" title="Contacted=%d">
+</map>

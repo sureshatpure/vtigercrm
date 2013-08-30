@@ -1,0 +1,31 @@
+Transaction Id	
+Answer	
+Status	
+customer_number	
+customer_name	
+collector_name	
+invoice_no	
+invoice_date	
+Dissatisfaction_Reason	
+Dissatisfaction_Reason_Sub	
+Customer_Comments	
+Customer_Name	
+Contact No	
+Email id	
+ip address	
+Date
+
+
+
+
+transaction_id	
+answer
+status	
+dissatisfaction_reason	
+dissatisfaction_reason_sub	
+customer_comments	
+customer_name	
+contact_no	
+email_id	
+ip_address	
+date

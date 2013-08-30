@@ -1,0 +1,9 @@
+<img src="cache/images/vert_" border="0" usemap="#cache/images/vert_">
+<map name="cache/images/vert_">
+	<area shape="rect" coords="48,59,84,137" href="index.php?module=Accounts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Sal Executive Delhi Gunjan&viewname=4" alt="Customers=%d" title="Customers=%d">
+	<area shape="rect" coords="136,117,172,137" href="index.php?module=Potentials&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Sal Executive Delhi Gunjan&viewname=10" alt="Opportunities=%d" title="Opportunities=%d">
+	<area shape="rect" coords="224,117,260,137" href="index.php?module=Contacts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Sal Executive Delhi Gunjan&viewname=7" alt="Contacts=%d" title="Contacts=%d">
+	<area shape="rect" coords="312,78,348,137" href="index.php?module=Leads&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Sal Executive Delhi Gunjan&viewname=1" alt="Leads=%d" title="Leads=%d">
+	<area shape="rect" coords="400,117,436,137" href="index.php?module=Calendar&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Sal Executive Delhi Gunjan&viewname=19" alt="Calendar=%d" title="Calendar=%d">
+	<area shape="rect" coords="488,117,524,137" href="index.php?module=Campaigns&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Sal Executive Delhi Gunjan&viewname=29" alt="Campaigns=%d" title="Campaigns=%d">
+</map>

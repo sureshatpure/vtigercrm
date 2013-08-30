@@ -1,0 +1,7 @@
+<img src="cache/images/hor_0__01377322579.png" border="0" usemap="#cache/images/hor_0__01377322579.png">
+<map name="cache/images/hor_0__01377322579.png">
+	<area shape="rect" coords="110,48,353,131" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Employee&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Employee=%d" title="Employee=%d">
+	<area shape="rect" coords="110,158,353,241" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Self+Generated&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Self Generated=%d" title="Self Generated=%d">
+	<area shape="rect" coords="110,268,353,351" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=Existing+Customer&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="Existing Customer=%d" title="Existing Customer=%d">
+	<area shape="rect" coords="110,378,596,461" href="index.php?module=Leads&action=index&from_dashboard=true&search_text=--None--&search_field=leadsource&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=1" alt="None=%d" title="None=%d">
+</map>
